@@ -32,15 +32,20 @@ C'est ici que je répertorie mes plus grandes quêtes et mes sorts les plus puis
 ![Node.JS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 
+---
+
 ## 📊 Statistiques de l'Aventurier
 
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mickaelbrouttier-max&theme=dracula" alt="Streak de Mickaël" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mickaelbrouttier-max&show_icons=true&theme=dracula&count_private=true" alt="Stats Globales" height="170" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mickaelbrouttier-max&theme=dracula" alt="Streak de Mickaël" height="170" />
 </p>
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=mickaelbrouttier-max&show_icons=true&theme=dracula&count_private=true&hide_border=true" alt="Statistiques Globales" />
+### 🏆 Mes Trophées de Quêtes
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=mickaelbrouttier-max&theme=dracula&no-frame=true&margin-w=15" alt="Trophées de Mickaël" />
 </p>
+
 
 ## 📬 Recrutez un Aventurier
 [![LinkedIn](https://img.shields.io/badge/Mon_Profil_LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mickaël-brouttier-6580082a4)
