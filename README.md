@@ -1,15 +1,16 @@
-# 🧙‍♂️ Salutations, voyageur ! Moi c'est Mickaël BROUTTIER
+# 🧙‍♂️ Salutations ! Moi c'est Mickaël BROUTTIER
 
-### 🌌 Développeur Fullstack (React / Node.js)
-*Artisan du code spécialisé dans l'invocation d'interfaces modernes et de serveurs robustes.*
+### 🌌 Développeur Fullstack (React / Node.js) 
+**🎯 En recherche active : Alternance Concepteur Développeur d'Application (CDA) / Poste Junior**
 
 ---
 
 ## 📜 Ma Quête Actuelle
-- 🏹 **Classe :** Développeur Web & Web Mobile (Junior)
-- ⚔️ **Maîtrises :** Architecture de composants et magie du Backend.
-- 🐲 **Univers :** Passionné de Pop Culture et de High Fantasy.
-- 🗺️ **Objectif :** Rejoindre une guilde (entreprise) pour relever des défis épiques.
+- 🏹 **Classe :** Développeur Web & Web Mobile
+- 🏰 **Objectif :** Intégrer une guilde pour une **Alternance CDA** ou un premier poste.
+- ⚔️ **Maîtrises :** Architecture Front-end (React) & Magie du Backend (Node/Express).
+- 🐲 **Univers :** Fan inconditionnel de Pop Culture et de Fantasy.
+- 📍 **Localisation :**  Toulouse pour de l'irl, le monde pour du virtuel.
 
 ---
 
@@ -30,14 +31,14 @@
 
 ## 📊 Statistiques de l'Aventurier
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=MICKAEL_TON_PSEUDO&show_icons=true&theme=dracula" alt="Stats de Mickaël" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mickaelbrouttier-max&show_icons=true&theme=dracula&count_private=true" alt="Stats de Mickaël" />
 </p>
 
 ---
 
-## 📬 Envoyer un message par hibou (ou via LinkedIn)
+## 📬 Recrutez un Aventurier
 [![LinkedIn](https://img.shields.io/badge/Mon_Profil_LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mickaël-brouttier-6580082a4)
 
 ---
 
-> "Le plus court chemin d'un point à un autre est de ne pas s'arrêter en route." — Gandalf le Gris 🧙‍♂️
+> "Tout ce que nous avons à décider, c'est quoi faire du temps qui nous est imparti." — Gandalf 🧙‍♂️
