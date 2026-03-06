@@ -38,13 +38,8 @@ C'est ici que je répertorie mes plus grandes quêtes et mes sorts les plus puis
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mickaelbrouttier-max&show_icons=true&theme=dracula&count_private=true" alt="Stats Globales" height="170" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mickaelbrouttier-max&theme=dracula" alt="Streak de Mickaël" height="170" />
 </p>
 
-### 🏆 Mes Trophées de Quêtes
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mickaelbrouttier-max&theme=dracula&no-frame=true&margin-w=15" alt="Trophées de Mickaël" />
-</p>
 
 
 ## 📬 Recrutez un Aventurier
