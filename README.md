@@ -37,8 +37,7 @@ C'est ici que je répertorie mes plus grandes quêtes et mes sorts les plus puis
 ## 📊 Statistiques de l'Aventurier
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mickaelbrouttier-max&show_icons=true&theme=dracula&count_private=true" alt="Stats Globales" height="170" />
-</p>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mickaelbrouttier-max&theme=dracula" alt="Streak de Mickaël" height="170" /></p>
 
 
 
