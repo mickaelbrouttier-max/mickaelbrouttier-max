@@ -1,16 +1,21 @@
 # 🧙‍♂️ Salutations ! Moi c'est Mickaël BROUTTIER
 
 ### 🌌 Développeur Fullstack (React / Node.js) 
-**🎯 En recherche active : Alternance Concepteur Développeur d'Application (CDA) / Poste Junior**
+**🎯 En quête d'une Alternance : Concepteur Développeur d'Application (CDA)**
+
+---
+
+## 🏰 Visitez mon Grimoire (Portfolio)
+C'est ici que je répertorie mes plus grandes quêtes et mes sorts les plus puissants :
+👉 **[Accéder à mon Portfolio 🚀](https://mickaelbrouttier-max.github.io/Portfolio/)**
 
 ---
 
 ## 📜 Ma Quête Actuelle
 - 🏹 **Classe :** Développeur Web & Web Mobile
-- 🏰 **Objectif :** Intégrer une guilde pour une **Alternance CDA** ou un premier poste.
-- ⚔️ **Maîtrises :** Architecture Front-end (React) & Magie du Backend (Node/Express).
-- 🐲 **Univers :** Fan inconditionnel de Pop Culture et de Fantasy.
-- 📍 **Localisation :**  Toulouse pour de l'irl, le monde pour du virtuel.
+- ⚔️ **Arsenal :** JavaScript, TypeScript, React, Node.js, Express.
+- 🐲 **Univers :** Passionné de Pop Culture et de High Fantasy.
+- 📍 **Disponibilité :** Immédiate pour une alternance ou un poste junior.
 
 ---
 
@@ -32,6 +37,8 @@
 ## 📊 Statistiques de l'Aventurier
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=mickaelbrouttier-max&show_icons=true&theme=dracula&count_private=true" alt="Stats de Mickaël" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mickaelbrouttier-max&layout=compact&theme=dracula" alt="Top Langages" />
 </p>
 
 ---
