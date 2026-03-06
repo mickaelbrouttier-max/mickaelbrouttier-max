@@ -36,11 +36,8 @@ C'est ici que je répertorie mes plus grandes quêtes et mes sorts les plus puis
 
 ## 📊 Statistiques de l'Aventurier
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=mickaelbrouttier-max&show_icons=true&theme=dracula&count_private=true" alt="Stats de Mickaël" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mickaelbrouttier-max&layout=compact&theme=dracula" alt="Top Langages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mickaelbrouttier-max&show_icons=true&theme=dracula&count_private=true" alt="Stats de Mickaël" onerror="this.style.display='none'" />
 </p>
-
 ---
 
 ## 📬 Recrutez un Aventurier
