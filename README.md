@@ -1,6 +1,6 @@
 # 🧙‍♂️ Salutations ! Moi c'est Mickaël BROUTTIER
 
-### 🌌 Développeur Fullstack (React / Node.js) 
+### 🌌 Développeur Fullstack (React / Node.js)
 **🎯 En quête d'une Alternance : Concepteur Développeur d'Application (CDA)**
 
 ---
